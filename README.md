@@ -42,15 +42,17 @@ Saya senang mempelajari hal baru, menciptakan tampilan antarmuka yang menarik, s
 
 ---
 
-## 📈 Statistik GitHub Saya
+## 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=230660221001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=230660221001&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔤 Bahasa Pemrograman yang Sering Digunakan
+## 🗣️ Bahasa Pemrograman yang Sering Digunakan
+
+> _GitHub mendeteksi bahasa dari repositori yang berisi kode. Jika belum tampil, berarti belum ada file proyek yang dikodekan._
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=230660221001&layout=compact&theme=radical&hide_border=true" height="160"/>
@@ -61,7 +63,18 @@ Saya senang mempelajari hal baru, menciptakan tampilan antarmuka yang menarik, s
 ## 🌐 Hubungi Saya
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/gathan-zalfaa-kautsar-92006a32b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"/></a>
-  &n
+  <a href="https://www.instagram.com/ghatanzk/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:230660221001@student.unsap.ac.id"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/></a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
+  <br/>
+  ⭐️ Dari <a href="https://github.com/230660221001">Ghatan Zalfaa Kautsar</a>
+</p>
